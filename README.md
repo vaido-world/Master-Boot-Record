@@ -6,6 +6,9 @@ Cluster values are represented by 32-bit numbers.
 Limits: 4 GB maximum file size, 8 TB maximum partition size.  
 
 
+# GCC C compiler Manual Setup on Windows Environment
+http://www.mingw.org/wiki/HOWTO_Install_the_MinGW_GCC_Compiler_Suite#toc1
+
 ---
 ### Sources to research
 http://www.dewassoc.com/kbase/hard_drives/master_boot_record.htm

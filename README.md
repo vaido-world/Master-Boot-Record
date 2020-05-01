@@ -8,6 +8,7 @@ Limits: 4 GB maximum file size, 8 TB maximum partition size.
 
 ## C compiler Manual Setup on Windows Environment
 http://www.mingw.org/wiki/HOWTO_Install_the_MinGW_GCC_Compiler_Suite#toc1
+http://winlibs.com/
 
 ---
 ### Sources to research
